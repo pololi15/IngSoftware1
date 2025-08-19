@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Ostin",
+    "commit": {
+      "date": "2025-08-19T03:59:44.000Z",
+      "message": "Agregue la funcionalidad de multiplicar apenas",
+      "url": "https://github.com/pololi15/IngSoftware1/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2025-08-19"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
